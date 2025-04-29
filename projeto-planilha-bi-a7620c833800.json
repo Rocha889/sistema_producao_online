@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-planilha-bi",
+  "private_key_id": "a7620c83380014901cd5de70bd5e57a729a6763f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3VxQ8XOouqog3\nczGe0XdhMDxYRT8P4IbmKWM5oMh9hVwA9mCPyN2eKfI1jb+azjiDIbCFiPmZ3GmN\n057aPQ9MYkGJX8OJjNb/iGuGrMtWjp3onI/ZIRhVHnn68FrmDOtJHMehfeGr1m61\nlHmb5Z/KIkwkOAI7NLvMhhcJJ1txNmjxV28dzHhoYyJ/JtCr9IfmHopNWXsAx7dY\ntgAi/1d6eqtGkqnh/uwXp8jUHySOg8gHiLbCA3kRZ7/GePe4xzsmfBU/Dq/I1tqK\n4tXFYp6jBsC3KBAQ7G5K+SP4PH3FTQPMBc+toCqh4el+KjXrFNUy/kreX6si9M5F\nHpAtFPl7AgMBAAECggEAEjO0gBuvakum825d1kkwg3cg/ph9XsupSO+B+OY0EXYs\ngLH1O0Ezc3DxqYx1od5ocOhm2JMVSMe/uQNyCXO3cZttq0BVLvJLJBp8pmXAWEsX\ndVEZ3PIysrywWpADTkSpFVykmy1eussyuZdQjYA6IXzPN2dSHWOqY29KmS+Nngsg\nPB1W8aQMTs27el8z0Ffuhx0uKRGj6bqdaurj+YjIcwvHcsyE3NieVcnzDLszlSLY\nOJLf9e/ReJjXjRqzc+meEqxIsyqy0TjoWGijQzF3/zhPMaH/LhimlxJ55azsZjUP\nw71bV0HH3TrMZshNuIguIaSpjqyQrvLs+OrAhSadFQKBgQDm760qeYjNTSMJ441j\nC13lNh2lE5X+7fvu2/7tqbvf9fLXWcGHRjL6PA6xIPAyNJibYsqSzto/BdtbWQKk\nqSK30BDVIc2S5Uu/im4VHfNOrW1R+WlWtj7fryTG4fO9vLrxLoumsK+HCM1htXvu\nd4mu4DqeHZPKV3XJdMQA4/rFBwKBgQDLPP6uXPiUeBV+aNtD5luLQW9ixD9D/ewZ\nema7vXBSNJd3wXWwv6kd963pnpiOhN3rsAz8q8cabzysRi+KQg+SdFO1Ee1J0wJv\n4HMIx9OYkEr7Q92T/gG/pNE8pBJpT7VYy5XG/oJPZhAKNdYOmpj+KKI5M9ZPaeBS\noBaDuMxe7QKBgQDe9kRwH8rOvEy5/XLCT3UmGathd5l3+fkk0k4804VKY8FD3aqV\nmlcZdeaRaUW+kz1LuIPwXbok4ti4RyXgKFQWt9GolOxPiQYrNdG2naYNLi+/11e2\nmln1yLlvMzQK2i57MP8vvqKZcwwn6/ptcAgESQUPJ2tLDknwaMXcPkAc/QKBgF+z\nXQml5bejxBs+LOGQO1MbgOO1HUVa8C4fIPkOfzF2akyN4GlWFsBxvIbhk1yo3Ab7\nY2InUR31e1BzzDcCXGrONAxzYJT+s4sS2Zgs4Epax7QBhPkHBrPDXHN9nt3QFsi1\nNNX7Skkw+iSUrTM7QQeNAraE3kmOxX6iu3dTMYkRAoGAAuTiVSqU11tB1sHSlZon\nhPXlU/+cnoEHTXGSHw8Etn52YN6IEaSmrpiKxlDqTNW08xACcxXE5PI8+epXpkWL\nen0ttlTc9Q61+muTFR9Kkxkob2+oaAsEXcTiIqlcUXbIh/ErcfIkhvIqxW33mDgF\nH8sVeXfmC4Okd2tAEHeRIi4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "servi-o-planilha@projeto-planilha-bi.iam.gserviceaccount.com",
+  "client_id": "102252509073851852145",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/servi-o-planilha%40projeto-planilha-bi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
